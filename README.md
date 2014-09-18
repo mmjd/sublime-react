@@ -1,7 +1,8 @@
 # sublime-react
 
-Snippets and syntax highlighting for React.js / JSX.
+Snippets and syntax highlighting for Closure/React.js / JSX.
 
+<!--
 ![alt tag](https://raw.github.com/jgebhardt/sublime-react/master/docs/img/sr-rcc-out.gif)
 
 ## Installation
@@ -37,6 +38,8 @@ It's easy! Simply activate snippets by typing a mnemonic followed by TAB.
 ![alt tag](https://raw.github.com/jgebhardt/sublime-react/master/docs/img/sr-snippets-out.gif)
 
 Snippets are available for both JSX and CJSX ([React CoffeeScript](https://github.com/jsdf/coffee-react-transform)).
+
+-->
 
 #### Documentation of available snippets (JSX):
 
@@ -85,6 +88,8 @@ Snippets are available for both JSX and CJSX ([React CoffeeScript](https://githu
 
 ```
 
+<!--
+
 ## Contributing
 
 ### Rebuilding the docs
@@ -100,4 +105,6 @@ To pull in updates from yungsters/sublime, run:
 ### Contributor License Agreement
 
 Contributions are very welcome, but we ask that you please fill out our [CLA](https://code.facebook.com/cla) in order for us to accept your pull request.
+
+-->
 
