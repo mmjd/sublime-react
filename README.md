@@ -86,6 +86,10 @@ Snippets are available for both JSX and CJSX ([React CoffeeScript](https://githu
 
     trp→  transferPropsTo( ... )
 
+    pa→    adding param js tag
+
+    sub→   defining constructor variable for closure class
+
 ```
 
 ### Changes:
