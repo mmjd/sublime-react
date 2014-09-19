@@ -88,6 +88,10 @@ Snippets are available for both JSX and CJSX ([React CoffeeScript](https://githu
 
 ```
 
+### Changes:
+
+Only js snippets changed according to my needs.
+
 <!--
 
 ## Contributing

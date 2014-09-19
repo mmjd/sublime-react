@@ -5,6 +5,6 @@ componentDidMount: function() {
 },
 ]]></content>
     <tabTrigger>cdm</tabTrigger>
-    <scope>source.js</scope>
+    <!--<scope>source.js</scope>-->
     <description>React: componentDidMount: fn() { ... }</description>
 </snippet>

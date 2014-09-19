@@ -5,6 +5,6 @@ componentWillMount: function() {
 },
 ]]></content>
     <tabTrigger>cwm</tabTrigger>
-    <scope>source.js</scope>
+    <!--<scope>source.js</scope>-->
     <description>React: componentWillMount: fn() { ... }</description>
 </snippet>

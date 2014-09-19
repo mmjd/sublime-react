@@ -3,6 +3,6 @@
 isMounted()
 ]]></content>
     <tabTrigger>ism</tabTrigger>
-    <scope>source.js</scope>
+    <!--<scope>source.js</scope>-->
     <description>React: isMounted()</description>
 </snippet>

@@ -5,6 +5,6 @@ componentWillUnmount: function() {
 },
 ]]></content>
     <tabTrigger>cwun</tabTrigger>
-    <scope>source.js</scope>
+    <!--<scope>source.js</scope>-->
     <description>React: componentWillUnmount: fn() { ... }</description>
 </snippet>

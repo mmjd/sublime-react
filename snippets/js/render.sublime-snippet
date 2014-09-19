@@ -7,6 +7,6 @@ render: function() {
 }
 ]]></content>
     <tabTrigger>ren</tabTrigger>
-    <scope>source.js</scope>
+    <!--<scope>source.js</scope>-->
     <description>React: render: fn() { return ... }</description>
 </snippet>

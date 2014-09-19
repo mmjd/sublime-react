@@ -7,6 +7,6 @@ getDefaultProps: function() {
 },
 ]]></content>
     <tabTrigger>gdp</tabTrigger>
-    <scope>source.js</scope>
+    <!--<scope>source.js</scope>-->
     <description>React: getDefaultProps: fn() { return {...} } </description>
 </snippet>
